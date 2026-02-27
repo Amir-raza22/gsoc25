@@ -188,5 +188,6 @@ for their guidance, patience, and detailed reviews. Every discussion helped me s
 - 🌱 Most importantly → I grew from being just a user of Chrome to **a contributor to the browser itself**.  
 
 ---
+#Amir Raza new contributer
 
 
